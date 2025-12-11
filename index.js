@@ -35,5 +35,5 @@ app.use("/user", userRoute);
 app.use("/course", courseRoute);
 
 app.listen(PORT, () => {
-    console.log(`Server is listening on port ${PORT}`);
+    console.log(`Server is running at http://localhost:${PORT}`);
 });
