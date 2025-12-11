@@ -28,7 +28,7 @@ A modern MERN (MongoDB, Express, React, Node.js) Book Store web application for 
 
 #### 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/Abhi20052025/BookStore-Mern-Back-End-.git
 cd Book_Strore-main
 ```
 
@@ -79,4 +79,4 @@ Book_Strore-main/
 This project is licensed under the ISC License.
 
 ## Author
-ArmanAnsari 
+Abhishek Kumar Pandey
